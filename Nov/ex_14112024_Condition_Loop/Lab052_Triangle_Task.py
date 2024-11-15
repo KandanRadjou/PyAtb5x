@@ -1,0 +1,1 @@
+s1=int(input("enter the side 1\n"))
